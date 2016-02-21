@@ -36,7 +36,7 @@
    * [List 的多层次数据运用](06_列表、数列设计/List 的多层次数据运用)
 * [Clock Block](07_Clock Block/Clock Block)
    * [什么是Clock Block](07_Clock Block/什么是Clock Block)
-   * DesignScript语法
+   * [DesignScript语法](07_Clock Block/DesignScript语法)
    * 代码的简写
    * 函数
 * 在revit中的运用

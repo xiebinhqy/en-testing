@@ -17,7 +17,7 @@
    * [Dynamo 管理程序](03_可视化程序分析/Dynamo 管理程序.md)
 * [程序的基本元素](04_程序的基本元素/程序的基本元素.md)
    * [Dynamo 数据](04_程序的基本元素/Dynamo 数据.md)
-   * [)Dynamo 数学函数](04_程序的基本元素/Dynamo 数学函数)
+   * [Dynamo 数学函数](04_程序的基本元素/Dynamo 数学函数)
    * [Dynamo 逻辑推理](04_程序的基本元素/Dynamo 逻辑推理)
    * [Dynamo 字符串](04_程序的基本元素/Dynamo 字符串)
    * [Dynamo 颜色](04_程序的基本元素/Dynamo 颜色)

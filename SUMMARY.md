@@ -20,5 +20,5 @@
    * [)Dynamo 数学函数](04_程序的基本元素/Dynamo 数学函数)
    * [Dynamo 逻辑推理](04_程序的基本元素/Dynamo 逻辑推理)
    * [Dynamo 字符串](04_程序的基本元素/Dynamo 字符串)
-   * Dynamo 颜色
+   * [Dynamo 颜色](04_程序的基本元素/Dynamo 颜色)
 

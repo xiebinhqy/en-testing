@@ -1,4 +1,4 @@
 # Summary
 
-* [about](README.md)
+* [书简介](README.md)
 

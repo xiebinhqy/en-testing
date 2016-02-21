@@ -37,6 +37,7 @@
 * [Clock Block](07_Clock Block/Clock Block)
    * 什么是Clock Block
    * DesignScript语法
+   * 代码的简写
 * 在revit中的运用
 * Dynamo自定义节点
 * Dynamo节点包

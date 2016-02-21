@@ -3,7 +3,7 @@
 * [教程简介](README.md)
 * [入门基础](01_入门基础/入门基础.md)
    * [可视化编程的定义](01_入门基础/可视化编程的定义.md)
-   * [Dynamo的定义](01_入门基础/Dynamo的定义)
+   * [Dynamo的定义](01_入门基础/Dynamo的定义.md)
    * [Dynamo的功能](01_入门基础/Dynamo的功能)
 * [Dynamo](02_Dynamo/Dynamo)
    * [安装和运行软件](02_Dynamo/安装和运行软件)

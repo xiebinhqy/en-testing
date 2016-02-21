@@ -5,5 +5,5 @@
    * [可视化编程的定义](01_入门基础/可视化编程的定义)
    * [Dynamo的定义](01_入门基础/Dynamo的定义)
    * [Dynamo的功能](01_入门基础/Dynamo的功能)
-* Dynamo
+* [Dynamo](02_Dynamo)
 

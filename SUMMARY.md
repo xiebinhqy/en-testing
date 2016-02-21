@@ -46,7 +46,7 @@
    * [Revit在Dy创建](08_在revit中的运用/Revit在Dy创建)
    * [Dynamo其他动能](08_在revit中的运用/Dynamo其他动能)
    * [Dynamo实例介绍](08_在revit中的运用/Dynamo实例介绍)
-* [Dynamo自定义节点](09_Dynamo自定义节点)
+* [Dynamo自定义节点](09_Dynamo自定义节点/Dynamo自定义节点)
 * Dynamo节点包
 * Dynamo扩展
 * Dy附录

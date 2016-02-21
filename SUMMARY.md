@@ -20,4 +20,5 @@
    * )Dynamo 数学函数
    * Dynamo 逻辑推理
    * Dynamo 字符串
+   * Dynamo 颜色
 

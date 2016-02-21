@@ -19,7 +19,7 @@
    * [Dynamo 数据](04_程序的基本元素/Dynamo 数据.md)
    * [Dynamo 数学函数](04_程序的基本元素/Dynamo 数学函数.md)
    * [Dynamo 逻辑推理](04_程序的基本元素/Dynamo 逻辑推理.md)
-   * [Dynamo 字符串](04_程序的基本元素/Dynamo 字符串)
+   * [Dynamo 字符串](04_程序的基本元素/Dynamo 字符串.md)
    * [Dynamo 颜色](04_程序的基本元素/Dynamo 颜色)
 * [几何计算设计](05_几何计算设计/几何计算设计)
    * [Dynamo 几何概述](05_几何计算设计/Dynamo 几何概述)

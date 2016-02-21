@@ -6,7 +6,7 @@
    * [Dynamo的定义](01_入门基础/Dynamo的定义.md)
    * [Dynamo的功能](01_入门基础/Dynamo的功能.md)
 * [Dynamo](02_Dynamo/Dynamo.md)
-   * [安装和运行软件](02_Dynamo/安装和运行软件)
+   * [安装和运行软件](02_Dynamo/安装和运行软件.md)
    * [Dynamo的用户界面](02_Dynamo/Dynamo的用户界面)
    * [Dynamo的工作区](02_Dynamo/Dynamo的工作区)
    * [Dynamo的入门指南](02_Dynamo/Dynamo的入门指南)

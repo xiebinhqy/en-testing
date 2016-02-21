@@ -50,7 +50,7 @@
    * [Dynamo自定义节点介绍](09_Dynamo自定义节点/Dynamo自定义节点介绍)
    * [Dynamo自定义节点创建](09_Dynamo自定义节点/Dynamo自定义节点创建)
    * [Dynamo在本地上传自定义节点](09_Dynamo自定义节点/Dynamo在本地上传自定义节点)
-   * Python 节点的使用
+   * [Python 节点的使用](09_Dynamo自定义节点/Python 节点的使用)
    * Python、Dynamo、Revit 的关系
 * Dynamo节点包
 * Dynamo扩展

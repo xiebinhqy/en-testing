@@ -8,6 +8,6 @@
 * [Dynamo](02_Dynamo/Dynamo)
    * [安装和运行软件](02_Dynamo/安装和运行软件)
    * [Dynamo的用户界面](02_Dynamo/Dynamo的用户界面)
-   * Dynamo的工作区
+   * [Dynamo的工作区](02_Dynamo/Dynamo的工作区)
    * Dynamo的入门指南
 

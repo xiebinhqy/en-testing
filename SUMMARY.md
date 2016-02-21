@@ -9,4 +9,5 @@
    * 安装和运行软件
    * Dynamo的用户界面
    * Dynamo的工作区
+   * Dynamo的入门指南
 

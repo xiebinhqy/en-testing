@@ -10,7 +10,7 @@
    * [Dynamo的用户界面](02_Dynamo/Dynamo的用户界面.md)
    * [Dynamo的工作区](02_Dynamo/Dynamo的工作区.md)
    * [Dynamo的入门指南](02_Dynamo/Dynamo的入门指南.md)
-* [可视化程序分析](03_可视化程序分析/可视化程序分析)
+* [可视化程序分析](03_可视化程序分析/可视化程序分析.md)
    * [Dynamo 节点](03_可视化程序分析/Dynamo 节点)
    * [Dynamo 连线](03_可视化程序分析/Dynamo 连线)
    * [Dynamo 节点库](03_可视化程序分析/Dynamo 节点库)

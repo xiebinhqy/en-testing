@@ -14,5 +14,5 @@
    * [Dynamo 节点](03_可视化程序分析/Dynamo 节点)
    * [Dynamo 连线](03_可视化程序分析/Dynamo 连线)
    * [Dynamo 节点库](03_可视化程序分析/Dynamo 节点库)
-   * Dynamo 管理程序
+   * [Dynamo 管理程序](03_可视化程序分析/Dynamo 管理程序)
 

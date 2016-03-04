@@ -33,7 +33,7 @@
    * [List 的定义](06_列表、数列设计/List 的定义.md)
    * [List 的使用](06_列表、数列设计/List 的使用.md)
    * [List 的基本运用](06_列表、数列设计/List 的基本运用.md)
-   * [List 的多层次数据运用](06_列表、数列设计/List 的多层次数据运用)
+   * [List 的多层次数据运用](06_列表、数列设计/List 的多层次数据运用.md)
 * [Clock Block](07_Clock Block/Clock Block)
    * [什么是Clock Block](07_Clock Block/什么是Clock Block)
    * [DesignScript语法](07_Clock Block/DesignScript语法)

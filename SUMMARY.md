@@ -47,7 +47,7 @@
    * [Dynamo其他动能](08_在revit中的运用/Dynamo其他动能)
    * [Dynamo实例介绍](08_在revit中的运用/Dynamo实例介绍)
 * [Dynamo自定义节点](09_Dynamo自定义节点/Dynamo自定义节点.md)
-   * [Dynamo自定义节点介绍](09_Dynamo自定义节点/Dynamo自定义节点介绍)
+   * [Dynamo自定义节点介绍](09_Dynamo自定义节点/Dynamo自定义节点介绍.md)
    * [Dynamo自定义节点创建](09_Dynamo自定义节点/Dynamo自定义节点创建)
    * [Dynamo在本地上传自定义节点](09_Dynamo自定义节点/Dynamo在本地上传自定义节点)
    * [Python 节点的使用](09_Dynamo自定义节点/Python 节点的使用)

@@ -39,7 +39,7 @@
    * [DesignScript语法](07_Clock Block/DesignScript语法.md)
    * [代码的简写](07_Clock Block/代码的简写.md)
    * [函数](07_Clock Block/函数)
-* [在revit中的运用](08_在revit中的运用/在revit中的运用)
+* [在revit中的运用](08_在revit中的运用/在revit中的运用.md)
    * [Revit连接](08_在revit中的运用/Revit连接)
    * [Revit输入节点](08_在revit中的运用/Revit输入节点)
    * [Revit编辑](08_在revit中的运用/Revit编辑)

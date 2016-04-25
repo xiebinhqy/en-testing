@@ -97,8 +97,8 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 
 
-#The Dynamo Primer
-##For Dynamo v9.0
+#【Dyanamo 中文手册】
+##教材以Dynamo0.9.x为基础
 
 ![Dynamo Logo](images/dynamo_logo_dark-trim.png)
 
